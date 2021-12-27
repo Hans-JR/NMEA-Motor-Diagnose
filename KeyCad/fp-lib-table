@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name wemos_d1_mini)(type KiCad)(uri ${KIPRJMOD}/d1_mini_kicad-master/library/wemos_d1_mini.pretty)(options "")(descr ""))
-  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/Logo)(options "")(descr ""))
-  (lib (name Connector_Wago250)(type KiCad)(uri "D:/TOOLS_HANS/Microcontroller/Projekte/Boot NMEA/Engine Monitor/KiCad/Wago_250/Connector_Wago250.pretty")(options "")(descr ""))
-)
